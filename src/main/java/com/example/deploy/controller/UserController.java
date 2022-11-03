@@ -42,7 +42,7 @@ public class UserController {
     }
 
     /**
-     * 新增数据
+     * 新增数据 wqeq
      *
      * @param user 实体
      * @return 新增结果
